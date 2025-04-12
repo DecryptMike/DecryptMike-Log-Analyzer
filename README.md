@@ -98,7 +98,7 @@ python simulator.py
 ## 📸 Preview
 
 <p align="center">
-  <img src="Decrypt Mike Threat Log Stream.gif" width="80%" alt="Log Analyzer in Action">
+  <img src="Decrypt Mike Threat Log Streams.gif" width="80%" alt="Log Analyzer in Action">
 </p>
 
 ---
