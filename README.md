@@ -25,6 +25,14 @@
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="Decrypt Mike Threat Log Streams.gif" width="80%" alt="Log Analyzer in Action">
+</p>
+
+--- 
+
 ## 🧱 Project Structure
 
 ```
@@ -92,14 +100,6 @@ In a separate terminal tab:
 ```bash
 python simulator.py
 ```
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="Decrypt Mike Threat Log Streams.gif" width="80%" alt="Log Analyzer in Action">
-</p>
 
 ---
 
