@@ -1,8 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![Last Commit](https://img.shields.io/github/last-commit/DecryptMike/DecryptMike-Password-Manager)
-![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Password-Manager)
 ![Flask](https://img.shields.io/badge/Flask-2.3+-informational?logo=flask)
 ![Real-Time](https://img.shields.io/badge/Feature-Real--Time%20Dashboard-green)
+![License](https://img.shields.io/github/license/DecryptMike/DecryptMike-Web-Vuln-Scanner)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
