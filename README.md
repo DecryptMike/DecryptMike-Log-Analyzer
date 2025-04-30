@@ -27,7 +27,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="Decrypt Mike Threat Log Streams.gif" width="80%" alt="Log Analyzer in Action">
+  <img src="Decrypt Mike Threat Log Streams.gif" width="100%" alt="Log Analyzer in Action">
 </p>
 
 --- 
